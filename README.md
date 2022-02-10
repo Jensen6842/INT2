@@ -1,4 +1,4 @@
-# Software 3: Functional Programming with Applications
+# Intelligent Systems 2: Machine Learning & Optimisation
 
 ## Description
 This module advances the IS stream by introducing the basics of machine learning, purely from an optimisation perspective. <br />
